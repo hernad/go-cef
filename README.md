@@ -2,7 +2,7 @@
 
 ## Prerequistes
 
-Lokacija [CEF 3 distribucije](http://www.magpcss.net/cef_downloads/index.php?query=label%3A~Deprecated+label%3ACEF3+label%3Abinary#list:)
+Lokacija [CEF 3 distribucije](http://www.magpcss.net/cef_downloads/index.php?query=label%3A~Deprecated+label%3ACEF3+label%3Abinary#list)
 
 <pre>
 /home/bringout/dev/cef/cef_bin 
