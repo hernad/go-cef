@@ -2,15 +2,21 @@
 
 ## Prerequistes
 
-Lokacija CEF distribucije:
+Lokacija [CEF 3 distribucije](http://www.magpcss.net/cef_downloads/index.php?query=label%3A~Deprecated+label%3ACEF3+label%3Abinary#list:)
 
-       /home/bringout/dev/cef/cef_bin 
-
+<pre>
+/home/bringout/dev/cef/cef_bin 
+</pre>
 
 ## Kopiraj so, pkg i locale resurse iz CEF distribucije:
 
-       ./cp_so.sh
+<pre>
+./cp_so.sh
+</pre>
 
 2. Pokreni 
 
-       ./run_go-cef
+<pre>
+go build
+./run_go-cef
+</pre>
