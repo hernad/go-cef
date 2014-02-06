@@ -3,6 +3,8 @@ cp -av /home/bringout/dev/cef/cef_bin/out/Release/*.pak .
 cp -av /home/bringout/dev/cef/cef_bin/out/Release/chrome-sandbox .
 cp -av /home/bringout/dev/cef/cef_bin/out/Release/locales .
 
+echo setujem permisije za chrome-sandbox !!!!
+
 sudo chown root:root chrome-sandbox
 sudo chmod 4755 chrome-sandbox
 
